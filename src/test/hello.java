@@ -14,6 +14,9 @@ public class hello {
 			
 			}
 		System.out.println(res);
+		System.out.println("ggx");
+		System.out.println("aaaa");
+		
 	}
 		
 	}
